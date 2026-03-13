@@ -3,6 +3,9 @@
     "jest": "^30.3.0"
   },
   "scripts": {
-  "test": "jest"
-}
+    "test": "jest"
+  },
+  "dependencies": {
+    "@mallikgalibshahriar/failsafe-report": "^1.1.0"
+  }
 }
