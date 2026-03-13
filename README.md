@@ -70,6 +70,8 @@ npm test -- --json --outputFile=results.json
 npx @mallikgalibshahriar/failsafe-report generate results.json --output report.html
 ```
 
+![Report screenshot](report.png)
+
 ---
 
 ## What I learned
