@@ -96,21 +96,5 @@ Type validation is not optional. It is the first line of defense.
 ## Author
 
 **Sirajul Islam** — SQA Engineer  
-[linkedin.com/in/siraajul](https://linkedin.com/in/siraajul) ·
-[siraajul.com](https://siraajul.com)
-
-```
-
----
-
-**GitHub About (160 char):**
-```
-
-White-box unit testing with Jest — found 3 bugs in a simple add() function that black-box testing missed. Fixed and proved with 7 passing tests.
-
-```
-
-**Tags:**
-```
-
-jest unit-testing white-box-testing javascript tdd qa-portfolio node
+[LinkedIn](https://linkedin.com/in/siraajul) ·
+[Portfolio](https://siraajul.com)
